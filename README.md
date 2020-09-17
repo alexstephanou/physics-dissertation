@@ -1,2 +1,2 @@
 # physics-dissertation
- An example from one star of the code created to improve technique of finding the amplitude of sound waves trapped in stars
+An example of the code created to improve the technique for finding the amplitude of sound waves trapped in stars for one star (named Java). This work was part of my undergraduate Physics degree dissertation at the University of Warwick. The code improved the technique of extracting amplitudes of sound waves in stars by 17% compared to conventional methods. Python's Lightkurve package significantly aided this project, and with my work in the field I was able to spot a significant error in the Lightkurve source code which was impacting all the current findings of the field. 
